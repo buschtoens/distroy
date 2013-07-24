@@ -1,13 +1,22 @@
 {
   "name": "distroy",
   "description": "vHost Routing for HTTP and HTTPS",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "author": "Jan Buschtöns <buschtoens@gmail.com>",
-  "contributors": [ 
-    { "name": "Jan Buschtöns", "email": "buschtoens@gmail.com", "url": "https://github.com/silvinci" }
+  "contributors": [
+    {
+      "name": "Jan Buschtöns",
+      "email": "buschtoens@gmail.com",
+      "url": "https://github.com/silvinci"
+    }
   ],
   "license": "MIT",
-  "keywords": ["net", "http", "https", "vhost"],
+  "keywords": [
+    "net",
+    "http",
+    "https",
+    "vhost"
+  ],
   "repository": "git://github.com/silvinci/distroy",
   "main": "index",
   "dependencies": {
