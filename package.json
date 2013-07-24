@@ -12,6 +12,7 @@
   "main": "index",
   "dependencies": {
     "sni": "*",
-    "mkdirp": "*"
+    "mkdirp": "*",
+    "batch": "*"
   }
 }
