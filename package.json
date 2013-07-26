@@ -22,6 +22,8 @@
   "dependencies": {
     "sni": "*",
     "mkdirp": "*",
-    "batch": "*"
+    "batch": "*",
+    "uuid": "*",
+    "quevent": "*"
   }
 }
