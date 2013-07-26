@@ -29,5 +29,5 @@ var ssl = {
 var server = https.createServer(ssl, function(req, res) {
     console.log(req.socket.remoteAddress + ":" + req.socket.remotePort);
     res.end("Fuck yeah!");
-  });
+  }).on("error", console.log);
 patch(host, server, true).listen("address");
