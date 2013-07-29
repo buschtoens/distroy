@@ -1,7 +1,7 @@
 {
   "name": "distroy",
   "description": "vHost Routing for HTTP and HTTPS",
-  "version": "0.13.2",
+  "version": "0.1.1",
   "author": "Jan Buschtöns <buschtoens@gmail.com>",
   "contributors": [
     {
