@@ -21,8 +21,6 @@
   "main": "index",
   "dependencies": {
     "sni": "*",
-    "mkdirp": "*",
-    "batch": "*",
     "uuid": "*",
     "quevent": "*"
   }
