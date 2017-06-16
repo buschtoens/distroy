@@ -21,7 +21,7 @@
   "main": "index",
   "dependencies": {
     "sni": "*",
-    "uuid": "*",
+    "uuid": ">=3.1.0",
     "quevent": "*"
   }
 }
